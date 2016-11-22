@@ -1,2 +1,3 @@
 bye.txt filter=git-crypt diff=git-crypt
 /encrypted/** filter=git-crypt diff=git-crypt
+/foobar/** filter=git-crypt-foobar diff=git-crypt-foobar
