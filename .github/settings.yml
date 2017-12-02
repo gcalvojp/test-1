@@ -47,25 +47,14 @@ repository:
   allow_rebase_merge: true
 
 labels:
-  - name: help wanted
-    oldname: help-wanted
+  - name: help-wanted
     color: 0e8a16
-  - name: more-information-needed
+  - name: more-info-needed
     color: d93f0b
   - name: bug
     color: b60205
   - name: feature
     color: 1d76db
-  - name: good first issue
-    color: "5319e7"
-  - name: good second issue
-    color: "5319e7"
-  - name: good third issue
-    color: "5319e7"
-  - name: good fourth issue
-    color: "5319e7"
-  - name: good fifth issue
-    color: "5319e7"
 
 # Collaborators: give specific users access to this repository.
 collaborators:
@@ -78,6 +67,9 @@ collaborators:
     permission: push
   - username: guillermocalvo
     permission: pull
+
+# Updates the default branch for this repository.
+default_branch: develop
 
 # NOTE: The APIs needed for teams are not supported yet by GitHub Apps
 # https://developer.github.com/v3/apps/available-endpoints/
