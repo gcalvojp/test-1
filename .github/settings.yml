@@ -66,3 +66,11 @@ labels:
     color: "5319e7"
   - name: good fifth issue
     color: "5319e7"
+
+# NOTE: The APIs needed for teams are not supported yet by GitHub Apps
+# https://developer.github.com/v3/apps/available-endpoints/
+teams:
+  - name: alpha
+    permission: admin
+  - name: bravo
+    permission: push
