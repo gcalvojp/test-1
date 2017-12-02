@@ -1,4 +1,5 @@
-theme: jekyll-theme-cayman
+# theme: jekyll-theme-cayman
+remote_theme: LeakyAbstractions/PrettyDocs-Theme
 title: Test Doc Pages
 description: A short description of your site's purpose
 show_downloads: true
