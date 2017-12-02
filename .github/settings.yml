@@ -18,3 +18,11 @@ labels:
     color: 1d76db
   - name: good first issue
     color: "5319e7"
+  - name: good second issue
+    color: "5319e7"
+  - name: good third issue
+    color: "5319e7"
+  - name: good fourth issue
+    color: "5319e7"
+  - name: good fifth issue
+    color: "5319e7"
