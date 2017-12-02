@@ -10,9 +10,7 @@ repository:
   description: Dummy repo
 
   # A comma-separated list of topics to set on the repository
-  topics:
-    - test
-    - testing
+  topics: test, testing, dummy-repo
 
   # A URL with more information about the repository
   homepage: http://test.guillermo.in/
