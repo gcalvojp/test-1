@@ -67,6 +67,18 @@ labels:
   - name: good fifth issue
     color: "5319e7"
 
+# Collaborators: give specific users access to this repository.
+collaborators:
+  - username: guillermocalvo
+    # Note: Only valid on organization-owned repositories.
+    # The permission to grant the collaborator. Can be one of:
+    # * `pull` - can pull, but not push to or administer this repository.
+    # * `push` - can pull and push, but not administer this repository.
+    # * `admin` - can pull, push and administer this repository.
+    permission: push
+  - username: guillermocalvo
+    permission: pull
+
 # NOTE: The APIs needed for teams are not supported yet by GitHub Apps
 # https://developer.github.com/v3/apps/available-endpoints/
 teams:
