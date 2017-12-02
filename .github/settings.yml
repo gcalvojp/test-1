@@ -6,6 +6,11 @@ repository:
   has_projects: false
   has_downloads: false
 
+topics:
+  - test
+  - testing
+  - dummy
+
 labels:
   - name: help wanted
     oldname: help-wanted
