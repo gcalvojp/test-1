@@ -2,16 +2,13 @@
 
 [Lorem ipsum dolor](foo.md) sit amet, consectetur adipiscing elit. Pellentesque et arcu auctor, vulputate sem vel, pellentesque sapien. Vivamus ex dui, pulvinar egestas metus vitae, tincidunt eleifend felis. Maecenas non arcu lacinia, tincidunt sapien et, malesuada orci. Quisque id lorem vitae mi commodo vulputate. Suspendisse varius vitae nibh cursus scelerisque. Aliquam id ex rhoncus, accumsan orci vitae, tincidunt dolor. Etiam molestie lectus tortor, eu mattis mauris sagittis vitae. Aenean sit amet nibh dolor. Phasellus et nibh in tortor consequat vestibulum ac non risus. Nullam luctus suscipit lorem, quis rutrum massa mollis a. Vivamus consequat sem risus, non porta justo feugiat nec. Suspendisse potenti. Nullam dapibus turpis libero, sit amet elementum nibh fermentum a. Cras at varius ligula. In hac habitasse platea dictumst. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
 
-<textarea>
-{{ site | jsonify }}
-</textarea>
 
 ## Posts
 
 <ul>
   {% for post in site.posts %}
     <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
+      <a href="{{ post.url }}">({{ post.id }} - {{ post.title }})</a>
       {{ post.excerpt }}
     </li>
   {% endfor %}
@@ -23,7 +20,7 @@
 <ul>
   {% for page in site.pages %}
     <li>
-      <a href="{{ page.url }}">{{ page.title }}</a>
+      <a href="{{ page.url }}">({{ page.id }} - {{ page.title }})</a>
       {{ page.excerpt }}
     </li>
   {% endfor %}
