@@ -16,7 +16,7 @@ repository:
     - dummy-repo
 
   # A URL with more information about the repository
-  homepage: https://test.guillermo.in/
+  homepage: http://test.guillermo.in/
 
   # Either `true` to make the repository private, or `false` to make it public.
   private: false
