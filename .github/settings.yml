@@ -13,7 +13,6 @@ repository:
   topics:
     - test
     - testing
-    - dummy-repo
 
   # A URL with more information about the repository
   homepage: http://test.guillermo.in/
