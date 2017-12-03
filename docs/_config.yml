@@ -4,3 +4,10 @@ title: Test Doc Pages
 description: A short description of your site's purpose
 show_downloads: true
 #google_analytics: [Your Google Analytics tracking ID]
+
+# Site Author
+author:
+  name: Guillermo Calvo
+  avatar: https://avatars2.githubusercontent.com/u/1181789?s=128&v=4
+  bio: Code monkey like fritos
+  location: Tokyo, Japan
