@@ -1,4 +1,15 @@
-### Lorem ipsum
+---
+title: Support
+author: guillermocalvo
+author_profile: true
+header:
+  overlay_image: https://leakyabstractions.com/assets/images/header/beautiful-solution.png
+  caption: "Photo credit: [**Leaky Abstractions**](https://leakyabstractions.com/)"
+  cta_label: "More Info"
+  cta_url: "https://guillermo.in/"
+---
+
+### Support
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eu ornare massa.
 
