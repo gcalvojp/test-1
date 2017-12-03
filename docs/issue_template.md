@@ -1,3 +1,6 @@
+---
+title: Issue Template
+---
 
 ### Expected behavior
 
