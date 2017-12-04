@@ -1,6 +1,6 @@
 # theme: jekyll-theme-cayman
 # remote_theme: mmistakes/minimal-mistakes
-remote_theme: LeakyAbstractions/PrettyDocs-Theme
+remote_theme: leakyabstractions/prettydocs-theme
 title: Test Doc Pages
 description: A short description of your site's purpose
 show_downloads: true
