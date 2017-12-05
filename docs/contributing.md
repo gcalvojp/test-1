@@ -1,11 +1,5 @@
 ---
 title: Contributing
-author_profile: true
-header:
-  overlay_image: https://leakyabstractions.com/assets/images/header/beautiful-solution.png
-  caption: "Photo credit: [**Leaky Abstractions**](https://leakyabstractions.com/)"
-  cta_label: "More Info"
-  cta_url: "https://guillermo.in/"
 ---
 
 # CONTRIBUTING
