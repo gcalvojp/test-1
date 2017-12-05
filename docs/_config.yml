@@ -58,10 +58,10 @@ share:
     share: false
   twitter:
     via: *site_owner_twitter
-    text: FMT - A tiny #C string formatting #library
+    text: Lorem ipsum
     title: Tweet
   github:
-    repo: LeakyAbstractions/fmt
+    repo: guillermocalvo/test
     position: right
     color: red
 
