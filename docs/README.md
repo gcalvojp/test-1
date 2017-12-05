@@ -32,7 +32,7 @@
 <ul>
   {% for collection in site.collections %}
     <li>
-      <strong>({{ doc.label }})</strong>
+      <strong>{{ collection.label }}</strong>
       <ul>
         {% for doc in collection.docs %}
           <li>
