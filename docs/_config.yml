@@ -1,14 +1,90 @@
-# theme: jekyll-theme-cayman
-# remote_theme: mmistakes/minimal-mistakes
+#
+# Site settings
+#
 remote_theme: LeakyAbstractions/PrettyDocs-Theme@gh-pages
-title: Test Doc Pages
-description: A short description of your site's purpose
-show_downloads: true
-#google_analytics: [Your Google Analytics tracking ID]
+# url: https://guillermocalvo.github.io
+# baseurl: /test
+title: &site_title Test Doc Pages
+description: &site_description A short description of your site's purpose
+branding:
+  icon:
+    name: icon_documents_alt
+  highlight: *site_title
+  bold: Docs
+markdown: kramdown
+kramdown:
+  auto_ids: true
+  entity_output: as_char
+  toc_levels: 1..6
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  input: GFM
+  hard_wrap: false
+  footnote_nr: 1
+  parse_block_html: true
 
-# Site Author
-author:
+
+#
+# Owner
+#
+owner:
   name: Guillermo Calvo
-  avatar: https://avatars2.githubusercontent.com/u/1181789?s=128&v=4
-  bio: Code monkey like fritos
-  location: Tokyo, Japan
+  twitter: &site_owner_twitter gcalvo
+  copyright:
+    notice: "All contents"
+    author: "[Guillermo Calvo](https://guillermo.in/)"
+
+
+#
+# Social
+#
+open_graph:
+  title: *site_title
+  site_name: *site_title
+  description: *site_description
+  locale: en_US
+  image: /assets/images/thumb.png
+twitter_cards:
+  title: *site_title
+  description: *site_description
+  creator: *site_owner_twitter
+  card: summary_large_image
+  image: /assets/images/thumb.png
+share:
+  facebook:
+    class: fb-like
+    action: like
+    layout: button_count
+    show-faces: false
+    share: false
+  twitter:
+    via: *site_owner_twitter
+    text: FMT - A tiny #C string formatting #library
+    title: Tweet
+  github:
+    repo: LeakyAbstractions/fmt
+    position: right
+    color: red
+
+# Google Analytics
+# google_analytics: [Google Analytics tracking ID]
+
+
+#
+# Collections
+#
+collections:
+  doc:
+    output: true
+    permalink: /:path.html
+
+
+#
+# Default values
+#
+defaults:
+  -
+    scope:
+      path: ""
+      type: doc
+    values:
+      layout: doc
