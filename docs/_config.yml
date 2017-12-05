@@ -9,8 +9,8 @@ description: &site_description A short description of your site's purpose
 branding:
   icon:
     name: icon_documents_alt
-  highlight: *site_title
-  bold: Docs
+  highlight: Test
+  bold: Doc Pages
 markdown: kramdown
 kramdown:
   auto_ids: true
