@@ -70,6 +70,18 @@ share:
 
 
 #
+# Posts
+#
+defaults:
+  -
+    scope:
+      path: ""
+      type: posts
+    values:
+      layout: doc
+
+
+#
 # Collections
 #
 collections:
