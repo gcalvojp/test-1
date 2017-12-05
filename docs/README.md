@@ -27,6 +27,25 @@
 </ul>
 
 
+## Collections
+
+<ul>
+  {% for collection in site.collections %}
+    <li>
+      <strong>({{ doc.label }})</strong>
+      <ul>
+        {% for doc in collection.docs %}
+          <li>
+            <a href="{{ doc.url }}">({{ doc.id }} - {{ doc.title }})</a>
+            {{ doc.excerpt }}
+          </li>
+        {% endfor %}
+      </ul>
+    </li>
+  {% endfor %}
+</ul>
+
+
 # The Cayman theme
 
 *Cayman is a Jekyll theme for GitHub Pages. You can [preview the theme to see what it looks like](http://pages-themes.github.io/cayman), or even [use it today](#usage).*
