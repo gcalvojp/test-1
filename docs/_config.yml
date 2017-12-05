@@ -70,18 +70,6 @@ share:
 
 
 #
-# Pages
-#
-defaults:
-  -
-    scope:
-      path: ""
-      type: pages
-    values:
-      layout: doc
-
-
-#
 # Collections
 #
 collections:
@@ -98,5 +86,17 @@ defaults:
     scope:
       path: ""
       type: doc
+    values:
+      layout: doc
+  -
+    scope:
+      path: ""
+      type: pages
+    values:
+      layout: doc
+  -
+    scope:
+      path: ""
+      type: posts
     values:
       layout: doc
