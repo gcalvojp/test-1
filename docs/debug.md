@@ -1,5 +1,6 @@
 ---
 permalink: /debug/
+layout: doc
 ---
 # DEBUG
 
