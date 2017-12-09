@@ -1,6 +1,6 @@
 ---
 title: Contributing Guidelines
-menu_name: Contributing
+short_title: Contributing
 ---
 
 # Contributing Guidelines

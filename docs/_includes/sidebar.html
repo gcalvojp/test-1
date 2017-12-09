@@ -11,7 +11,7 @@
                               {% assign section = site.pages | where: "url", url | first %}
                             {% endunless %}
                             {% if section %}
-                                <li><a class="scrollto" href="#{{ section.title | slugify }}">{% if section.menu_name %}{{ section.menu_name }}{% else %}{{ section.title }}{% endif %}</a></li>
+                                <li><a class="scrollto" href="#{{ section.title | slugify }}">{% if section.short_title %}{{ section.short_title }}{% else %}{{ section.title }}{% endif %}</a></li>
                               {% if section.sections %}
                                 <ul class="nav doc-sub-menu">
                                 {% for subsection in section.sections %}

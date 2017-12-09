@@ -1,6 +1,6 @@
 ---
 title: Support Guidelines
-menu_name: Support
+short_title: Support
 ---
 
 # Support Guidelines

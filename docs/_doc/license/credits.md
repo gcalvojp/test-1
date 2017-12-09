@@ -1,6 +1,6 @@
 ---
 title: Test Credits
-menu_name: Credits
+short_title: Credits
 ---
 
 {: .list .list-unstyled}

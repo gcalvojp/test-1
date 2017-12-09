@@ -1,6 +1,6 @@
 ---
 title: Contributor Covenant Code of Conduct
-menu_name: Code of Conduct
+short_title: Code of Conduct
 sections:
   - Our Pledge
   - Our Standards

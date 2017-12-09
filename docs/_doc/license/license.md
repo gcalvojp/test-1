@@ -1,6 +1,6 @@
 ---
 title: Test License
-menu_name: License
+short_title: License
 ---
 
 <div class="jumbotron text-center">

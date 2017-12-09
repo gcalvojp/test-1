@@ -1,6 +1,6 @@
 ---
 title: GNU Lesser General Public License
-menu_name: License
+short_title: License
 ---
 
 # GNU LESSER GENERAL PUBLIC LICENSE
