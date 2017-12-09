@@ -1,5 +1,6 @@
 ---
-title: License
+title: Test License
+menu_name: License
 ---
 
 <div class="jumbotron text-center">

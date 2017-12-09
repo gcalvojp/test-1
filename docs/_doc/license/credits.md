@@ -1,5 +1,6 @@
 ---
-title: Credits
+title: Test Credits
+menu_name: Credits
 ---
 
 {: .list .list-unstyled}
