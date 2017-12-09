@@ -11,7 +11,6 @@ heading: Getting started is easy!
 navigation:
   - /start
   - /components
-  - /api
   - /faqs
   - /showcase
   - /credits
