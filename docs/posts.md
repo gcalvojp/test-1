@@ -1,4 +1,5 @@
 ---
 layout: posts
-title: Posts
+title: What's New
+short_title: News
 ---
