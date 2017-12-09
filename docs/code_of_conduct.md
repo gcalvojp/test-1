@@ -1,6 +1,8 @@
 ---
-title: Code of Conduct
+title: Contributor Covenant Code of Conduct
+menu_name: Code of Conduct
 ---
+
 # Contributor Covenant Code of Conduct
 
 ## Our Pledge

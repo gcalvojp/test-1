@@ -1,8 +1,9 @@
 ---
-title: Support
+title: Support Guidelines
+menu_name: Support
 ---
 
-### Support
+# Support Guidelines
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eu ornare massa.
 

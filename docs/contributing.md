@@ -1,9 +1,18 @@
 ---
-title: Contributing
----
+title: Contributing Guidelines
+menu_name: Contributing
+------
 
-# CONTRIBUTING
+# Contributing Guidelines
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque et arcu auctor, vulputate sem vel, pellentesque sapien. Vivamus ex dui, pulvinar egestas metus vitae, tincidunt eleifend felis. Maecenas non arcu lacinia, tincidunt sapien et, malesuada orci. Quisque id lorem vitae mi commodo vulputate. Suspendisse varius vitae nibh cursus scelerisque. Aliquam id ex rhoncus, accumsan orci vitae, tincidunt dolor. Etiam molestie lectus tortor, eu mattis mauris sagittis vitae. Aenean sit amet nibh dolor. Phasellus et nibh in tortor consequat vestibulum ac non risus. Nullam luctus suscipit lorem, quis rutrum massa mollis a. Vivamus consequat sem risus, non porta justo feugiat nec. Suspendisse potenti. Nullam dapibus turpis libero, sit amet elementum nibh fermentum a. Cras at varius ligula. In hac habitasse platea dictumst. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eu ornare massa.
 
-Etiam feugiat ante vitae aliquet pellentesque. Phasellus quis mollis lectus. Suspendisse pharetra arcu id massa posuere ultrices. Sed rhoncus mattis tincidunt. Proin lacinia lectus quis nisi pretium, id consequat nulla convallis. Aenean sit amet dapibus ante. Nullam ut ligula vitae tellus eleifend vulputate in in mi. Donec suscipit tortor at tortor ultricies suscipit non vel odio. Fusce vitae elit vel turpis aliquet lacinia molestie ac eros. Vestibulum lacinia egestas felis id placerat. Maecenas a nunc ut erat euismod vehicula vel sed leo. Nam vehicula id diam quis tempus. Vivamus gravida posuere quam, eget semper metus posuere vitae. In arcu lacus, vehicula sit amet molestie sed, lacinia vitae erat. Nullam leo nisi, lobortis non consectetur in, pretium a elit.
+In non turpis nisi. Mauris congue elementum ligula, mattis rhoncus ex. Nam id sem quis mauris sollicitudin pharetra.
+Integer ac sodales arcu, ut vulputate leo. Sed consequat justo sed luctus auctor.
+Pellentesque ullamcorper odio eget orci varius fringilla. Phasellus posuere massa elit, rhoncus laoreet sem accumsan nec.
+In magna eros, consequat sit amet efficitur in, feugiat sed felis.
+
+Integer eleifend arcu diam, at lobortis ipsum venenatis a. Curabitur quis scelerisque augue, vel blandit libero.
+Phasellus fringilla nec mauris sed hendrerit. Fusce felis magna, ullamcorper nec diam nec, venenatis luctus quam.
+Nullam ac semper sapien. Curabitur neque libero, placerat non consectetur vitae, gravida eu neque.
+Phasellus erat nibh, pretium vel arcu et, fermentum mattis urna.
