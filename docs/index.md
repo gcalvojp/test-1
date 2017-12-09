@@ -17,6 +17,7 @@ navigation:
   - /charts
   - /news
   - /community
+  - /legal
 ---
 
 Welcome to prettyDocs.
