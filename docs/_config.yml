@@ -30,7 +30,7 @@ owner:
   name: Guillermo Calvo
   twitter: &site_owner_twitter gcalvo
   copyright:
-    notice: "TEST"
+    notice: "Lorem Ipsum"
     author: "[Guillermo Calvo](https://guillermo.in/)"
 
 
