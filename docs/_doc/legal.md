@@ -1,6 +1,6 @@
 ---
 title: License
-excerpt: Details of how this project is licensed
+excerpt: Read the full details of how this project is licensed
 icon:
   name: fa fa-gavel
 color: blue
