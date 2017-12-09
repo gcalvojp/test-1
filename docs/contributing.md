@@ -1,7 +1,7 @@
 ---
 title: Contributing Guidelines
 menu_name: Contributing
-------
+---
 
 # Contributing Guidelines
 
