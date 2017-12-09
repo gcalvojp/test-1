@@ -16,6 +16,7 @@ navigation:
   - /showcase
   - /license
   - /charts
+  - /community
 ---
 
 Welcome to prettyDocs.
