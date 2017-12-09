@@ -1,7 +1,7 @@
 #
 # Site settings
 #
-remote_theme: LeakyAbstractions/PrettyDocs-Theme@gh-pages
+remote_theme: guillermocalvo/pretty-docs
 # url: https://guillermocalvo.github.io
 # baseurl: /test
 title: &site_title Test Doc Pages
