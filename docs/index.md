@@ -14,7 +14,7 @@ navigation:
   - /api
   - /faqs
   - /showcase
-  - /license
+  - /credits
   - /charts
   - /community
 ---
