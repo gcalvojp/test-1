@@ -16,6 +16,7 @@ navigation:
   - /showcase
   - /credits
   - /charts
+  - /news
   - /community
 ---
 
