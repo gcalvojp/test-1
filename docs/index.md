@@ -11,10 +11,10 @@ heading: Getting started is easy!
 navigation:
   - /start
   - /components
+  - /charts
   - /faqs
   - /showcase
   - /credits
-  - /charts
   - /news
   - /community
   - /legal
