@@ -1,0 +1,25 @@
+
+                        {% for id in include.sections %}
+                          {% assign section = site.doc | where: "id", id | first %}
+                          {% unless section %}
+                            {% assign url = id | append: '.html' %}
+                            {% assign section = site.pages | where: "url", url | first %}
+                          {% endunless %}
+                          {% if section %}
+                            <section id="{{ section.title | slugify }}" class="doc-section">
+                                <h2 class="section-title">{{ section.title }}</h2>
+                                <div class="section-block">
+                                    {{ section.content
+                                      | markdownify
+                                      | replace_first: '<h1', '<!-- ' | replace_first: '</h1>', ' -->'
+                                      | replace: '<h6', '<b'          | replace: '</h6>', '</b>'
+                                      | replace: '<h5', '<h6'         | replace: '</h5>', '</h6>'
+                                      | replace: '<h4', '<h5'         | replace: '</h4>', '</h5>'
+                                      | replace: '<h3', '<h4'         | replace: '</h3>', '</h4>'
+                                      | replace: '<h2', '<h3'         | replace: '</h2>', '</h3>'
+                                      | replace: '<h1', '<h2'         | replace: '</h1>', '</h2>'
+                                    }}
+                                </div>
+                            </section>
+                          {% endif %}
+                        {% endfor %}
