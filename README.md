@@ -1,6 +1,6 @@
 # test
 
-Testing git-crypt
+Testing repository (git-crypt)
 
 ## Probot
 
