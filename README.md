@@ -1,6 +1,7 @@
 # test
 
-Testing repository (some files are encrypted wby `git-crypt`)
+Testing repository
+
 
 ## Probot
 
