@@ -1,6 +1,6 @@
 # test
 
-Testing repository
+Testing repository.
 
 
 ## Probot
